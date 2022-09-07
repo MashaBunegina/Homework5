@@ -31,7 +31,7 @@ public class Main {
             case 12:
             case 1:
             case 2:
-                System.out.println("Зиминий месяц");
+                System.out.println("Зиминий Месяц");
                 break;
             case 3:
             case 4:
